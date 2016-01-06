@@ -1,0 +1,9 @@
+.noteList p{
+    font-size:0.8em;
+    color:#BBB;
+}
+.noteList .title{
+    font-size:1.2em;
+    font-weight: bolder;
+    color:#444;
+}
